@@ -1,0 +1,16 @@
+
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title> Компани ЧекИмэйлс </title> 
+</head> 
+<body> 
+    <h1>Контактная информация</h1> 
+    <ul> 
+        <li>Email: cheburashka@example.com</li> 
+        <li>Email: winx2@example.com</li> 
+        <li>Email: transformers3@example.com</li> 
+    </ul> 
+    <p>Для вопросов и сотрудничества свяжитесь с нами по указанным адресам электронной почты.</p> 
+</body> 
+</html>
